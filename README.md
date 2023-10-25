@@ -12,18 +12,12 @@ Vectorize is a straightforward Python project that offers a simplified implement
 *  Installation: 
 Clone the repository and install the necessary dependencies.
 *  Data Preparation: Prepare your text data for training.
-*  Model Training: Utilize the provided script to train the Word2Vec model.
 *  Applying Word Embeddings: Generate word embeddings for any word in your dataset.
 *  Integration: Easily integrate these word embeddings into your NLP projects and applications.
 
 
 ### Contributions
 * Contributions, bug reports, and suggestions are welcome. Please feel free to open issues or submit pull requests for enhancements or bug fixes.
-
-
-## License
-
-This project is licensed under the iambotcoder License.
 
 
 ## Acknowledgments
